@@ -6,7 +6,7 @@ const ExperienceSection = () => {
   const certificates = [
     { 
       title: "C++ Certificate", 
-      image: "/images/C++ certificate.png" 
+      image: "/images/C++.png" 
     },
     { 
       title: "Frontend Development Certificate", 
