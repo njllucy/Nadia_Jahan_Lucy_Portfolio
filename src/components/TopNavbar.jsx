@@ -61,12 +61,12 @@ const TopNavbar = () => {
         {/* MOBILE MENU */}
         <div className="flex md:hidden items-center gap-4">
           <button className="text-xl hover:text-[#c3e422] transition">
-            <FaWhatsapp className="text-green-500 w-7 h-7"/>
+            <a href="https://wa.me/8801646656525"><FaWhatsapp className="text-green-500 w-7 h-7"/></a>
           </button>
-          <a href="#" className="text-xl hover:text-[#c3e422] transition">
+          <a href="https://www.linkedin.com/in/nadia-jahan-lucy" className="text-xl hover:text-[#c3e422] transition">
             <FaLinkedin />
           </a>
-          <a href="#" className="text-xl hover:text-[#c3e422] transition">
+          <a href="https://github.com/njllucy" className="text-xl hover:text-[#c3e422] transition">
             <FaGithub />
           </a>
          
