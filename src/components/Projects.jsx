@@ -27,7 +27,7 @@ const projects = [
     description:
       "A C/OpenGL based simulation game where players navigate a maze while managing oxygen survival mechanics.",
     tech: ["C", "OpenGL"],
-    image: "/public/images/maze.png",
+    image: "/images/maze.png",
     github:
       "https://github.com/njllucy/Oxygen-Survival-Maze-Simulator-C-OpenGL-Game-Project-.git",
     live: "https://youtu.be/ObSlHNgKFtc?si=I7B07JPIF4mekelk",
@@ -38,7 +38,7 @@ const projects = [
     description:
       "AI based face recognition system built with OpenCV and TensorFlow for detecting and recognizing faces in real-time.",
     tech: ["Python", "OpenCV", "TensorFlow"],
-    image: "/public/images/facerecognition.png",
+    image: "/src/components/images/facerecognition.png",
     github:
       "https://github.com/njllucy/Face_Recognition-OpenCv-Tensorflow-.git",
     // live: "",
