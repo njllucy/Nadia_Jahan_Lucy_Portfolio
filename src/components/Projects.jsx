@@ -3,6 +3,17 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
   {
+    title: "Oxygen Survival Maze Simulator",
+    description:
+      "A C/OpenGL based simulation game where players navigate a maze while managing oxygen survival mechanics.",
+    tech: ["C++", "OpenGL"],
+    image: "/images/maze.png",
+    github:
+      "https://github.com/njllucy/Oxygen-Survival-Maze-Simulator-C-OpenGL-Game-Project-.git",
+    live: "https://youtu.be/ObSlHNgKFtc?si=I7B07JPIF4mekelk",
+    color: "from-purple-400 to-pink-500",
+  },
+  {
     title: "Ecommerce Website",
     description:
       "A modern ecommerce web application built with React featuring product listing, cart system and responsive UI.",
@@ -21,17 +32,6 @@ const projects = [
     github: "https://github.com/njllucy/TODO-APP-React-TailwindCss-.git",
     live: "https://todo-app-react-tailwind-n8ze0ozeo-nadia-jahan-lucys-projects.vercel.app/",
     color: "from-blue-400 to-cyan-500",
-  },
-  {
-    title: "Oxygen Survival Maze Simulator",
-    description:
-      "A C/OpenGL based simulation game where players navigate a maze while managing oxygen survival mechanics.",
-    tech: ["C", "OpenGL"],
-    image: "/images/maze.png",
-    github:
-      "https://github.com/njllucy/Oxygen-Survival-Maze-Simulator-C-OpenGL-Game-Project-.git",
-    live: "https://youtu.be/ObSlHNgKFtc?si=I7B07JPIF4mekelk",
-    color: "from-purple-400 to-pink-500",
   },
   {
     title: "Face Recognition | Age & Emotion Prediction",

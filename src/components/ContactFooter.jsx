@@ -21,7 +21,9 @@ const ContactFooter = () => {
             Let's Work Together
           </button>
           <a
-            href="mailto:your-email@example.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=njllucy1221@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-[rgb(187,199,124)] text-gray-900 font-semibold py-3 px-6 rounded-xl hover:bg-yellow-400 transition-colors text-lg"
           >
             <FaEnvelope /> E-mail
@@ -33,7 +35,7 @@ const ContactFooter = () => {
       <footer className="border-t border-gray-700 pt-8 text-center pb-7">
         <div className="flex justify-center gap-6 mb-4 text-gray-400">
           <a
-             href="https://www.linkedin.com/in/nadia-jahan-lucy"
+            href="https://www.linkedin.com/in/nadia-jahan-lucy"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[rgb(187,199,124)] text-2xl transition-colors text-blue-400"
