@@ -7,7 +7,7 @@ const projects = [
     description:
       "A modern ecommerce web application built with React featuring product listing, cart system and responsive UI.",
     tech: ["React", "JavaScript", "CSS"],
-    image: "/public/images/ecommerce.png",
+    image: "/images/ecommerce.png",
     github: "https://github.com/njllucy/Ecommerce_Website-React-.git",
     live: "https://ecommerce-website-react-tau-five.vercel.app/",
     color: "from-green-400 to-emerald-600",
@@ -17,7 +17,7 @@ const projects = [
     description:
       "A clean and responsive todo application built using React and TailwindCSS to manage daily tasks efficiently.",
     tech: ["React", "TailwindCSS"],
-    image: "/public/images/Todo.png",
+    image: "/images/Todo.png",
     github: "https://github.com/njllucy/TODO-APP-React-TailwindCss-.git",
     live: "https://todo-app-react-tailwind-n8ze0ozeo-nadia-jahan-lucys-projects.vercel.app/",
     color: "from-blue-400 to-cyan-500",
