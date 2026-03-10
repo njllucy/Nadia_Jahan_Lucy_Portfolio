@@ -6,15 +6,15 @@ const ExperienceSection = () => {
   const certificates = [
     { 
       title: "C++ Certificate", 
-      image: "/src/certificates/C++ certificate.png" 
+      image: "/images/C++ certificate.png" 
     },
     { 
       title: "Frontend Development Certificate", 
-      image: "/src/certificates/Frontend development.png" 
+      image: "/images/Frontend development.png" 
     },
     { 
       title: "ICT Olympiad Ambassador Certificate", 
-      image: "/src/certificates/ict olympiad_certificate.jpg" 
+      image: "/images/ict olympiad_certificate.jpg" 
     },
   ];
 
