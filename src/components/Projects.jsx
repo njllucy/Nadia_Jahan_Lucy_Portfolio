@@ -7,7 +7,7 @@ const projects = [
     description:
       "A modern ecommerce web application built with React featuring product listing, cart system and responsive UI.",
     tech: ["React", "JavaScript", "CSS"],
-    image: "/src/images/ecommerce.png",
+    image: "/public/images/ecommerce.png",
     github: "https://github.com/njllucy/Ecommerce_Website-React-.git",
     live: "https://ecommerce-website-react-tau-five.vercel.app/",
     color: "from-green-400 to-emerald-600",
@@ -17,7 +17,7 @@ const projects = [
     description:
       "A clean and responsive todo application built using React and TailwindCSS to manage daily tasks efficiently.",
     tech: ["React", "TailwindCSS"],
-    image: "/src/images/Todo.png",
+    image: "/public/images/Todo.png",
     github: "https://github.com/njllucy/TODO-APP-React-TailwindCss-.git",
     live: "https://todo-app-react-tailwind-n8ze0ozeo-nadia-jahan-lucys-projects.vercel.app/",
     color: "from-blue-400 to-cyan-500",
@@ -27,7 +27,7 @@ const projects = [
     description:
       "A C/OpenGL based simulation game where players navigate a maze while managing oxygen survival mechanics.",
     tech: ["C", "OpenGL"],
-    image: "/src/images/maze.png",
+    image: "/public/images/maze.png",
     github:
       "https://github.com/njllucy/Oxygen-Survival-Maze-Simulator-C-OpenGL-Game-Project-.git",
     live: "https://youtu.be/ObSlHNgKFtc?si=I7B07JPIF4mekelk",
@@ -38,7 +38,7 @@ const projects = [
     description:
       "AI based face recognition system built with OpenCV and TensorFlow for detecting and recognizing faces in real-time.",
     tech: ["Python", "OpenCV", "TensorFlow"],
-    image: "/src/images/facerecognition.png",
+    image: "/public/images/facerecognition.png",
     github:
       "https://github.com/njllucy/Face_Recognition-OpenCv-Tensorflow-.git",
     // live: "",
@@ -50,7 +50,7 @@ const projects = [
       "A networking project demonstrating Ddos Attack Simulation & Detection",
     tech: ["C++", "Networking Concepts"],
     github: "https://github.com/njllucy/Computer-Network-Project-.git",
-    image: "/src/images/CN.png",
+    image: "/public/images/CN.png",
     color: "from-teal-300 to-teal-800",
 
   },
@@ -61,7 +61,7 @@ const projects = [
     tech: ["JavaScript", "HTML", "CSS"],
     github: "https://github.com/njllucy/Eat-Split-js-project-.git",
     live:"https://njllucy.github.io/Eat-Split-js-project-/",
-    image: "/src/images/Eat & split.png",
+    image: "/public/images/Eat & split.png",
     color: "from-amber-400 to-amber-800",
 
   },
@@ -72,7 +72,7 @@ const projects = [
     tech: ["HTML", "Tailwind CSS", "JavaScript", "Swiper.js"],
     github: "https://github.com/njllucy/StoryNest-Book-website-.git",
     live:"https://njllucy.github.io/StoryNest-Book-website-/",
-    image: "/src/images/book.png",
+    image: "/public/images/bookwebsite.png",
     color: "from-purple-200 to-purple-700",
 
   }
