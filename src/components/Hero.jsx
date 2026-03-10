@@ -174,7 +174,7 @@ const Hero = () => {
           </a>
 
           <a
-            href="/public/certificates/Resume.pdf"
+            href="/images/Resume.pdf"
             target="_blank"
             className="flex items-center gap-2 px-4 py-3 rounded-full border border-[#c3e422] text-[#c3e422] hover:shadow-[0_4px_25px_rgba(195,228,34,0.50)] hover:scale-105 transition"
           >
