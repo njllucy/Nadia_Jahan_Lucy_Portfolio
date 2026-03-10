@@ -7,7 +7,7 @@ const projects = [
     description:
       "A modern ecommerce web application built with React featuring product listing, cart system and responsive UI.",
     tech: ["React", "JavaScript", "CSS"],
-    image: "/images/ecommerce.png",
+    image: "/public/ecommerce.png",
     github: "https://github.com/njllucy/Ecommerce_Website-React-.git",
     live: "https://ecommerce-website-react-tau-five.vercel.app/",
     color: "from-green-400 to-emerald-600",
