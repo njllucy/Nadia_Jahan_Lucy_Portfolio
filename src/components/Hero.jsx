@@ -165,7 +165,7 @@ const Hero = () => {
         </p>
 
         {/* Buttons */}
-        <div className="flexflex-row justify-center gap-4">
+        <div className="flex flex-row justify-center gap-4">
           <a
             href="#projects"
             className="px-6 py-3 rounded-full bg-white text-black font-semibold hover:scale-105 transition hover:shadow-[0_4px_25px_rgba(195,228,34,0.50)]"
