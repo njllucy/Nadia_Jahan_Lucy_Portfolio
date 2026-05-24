@@ -1,9 +1,8 @@
 import { FaLinkedin, FaFacebook, FaEnvelope } from "react-icons/fa";
-
 import { SiLeetcode, SiCodeforces } from "react-icons/si";
 import { motion } from "framer-motion";
 
-import pp from "./profile.jpg";
+import pp from "../components/profile.jpg";
 
 const About = () => {
   return (

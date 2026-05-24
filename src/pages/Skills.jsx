@@ -107,7 +107,7 @@ const Skills = () => {
                 whileInView={{ width: `${skill.level}%` }}
                 transition={{ duration: 1 }}
                 viewport={{ once: true }}
-                className={`h-2 bg-gradient-to-r ${skill.color}`}
+                className={`h-2 bg-linear-to-r ${skill.color}`}
               />
             </div>
 

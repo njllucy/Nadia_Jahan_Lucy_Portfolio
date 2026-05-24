@@ -82,7 +82,7 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className=" py-20 px-6 bg-gradient-to-b from-slate-900 via-slate-800 to-slate-900 text-white"
+      className=" py-20 px-6 bg-linear-to-b from-slate-900 via-slate-800 to-slate-900 text-white"
     >
       {/* Title */}
       <div className="text-center mb-16">
@@ -112,7 +112,7 @@ export default function Projects() {
           >
             {/* Top gradient line */}
             <div
-              className={`h-1 w-full rounded mb-4 bg-gradient-to-r ${project.color}`}
+              className={`h-1 w-full rounded mb-4 bg-linear-to-r ${project.color}`}
             ></div>
             <div className="overflow-hidden rounded-lg mb-4">
               <img
